@@ -1,0 +1,35 @@
+ body {
+      font-family: Arial, sans-serif;
+     
+    }
+    header {
+      background-color: #58aef7;
+   
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: grey;
+      padding: 10px 20px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+     
+      margin: 0 10px;
+    }
+    .content {
+      padding: 20px;
+      text-align: center;
+    }
+            .container {
+            max-width: px;
+            margin: 18px auto;
+            padding: 0 20px;
+        }
+        .menu-item {
+            border-bottom: 2px solid #ccc;
+            padding: 13px 0;
+        }
+		
+	
